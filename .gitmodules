@@ -10,3 +10,6 @@
 [submodule "source/spark-official"]
 	path = source/spark-official
 	url = git@github.com:ryukisaito/spark-official.git
+[submodule "python/pyspark-examples-official"]
+	path = python/pyspark-examples-official
+	url = git@github.com:ryukisaito/pyspark-examples-official.git
