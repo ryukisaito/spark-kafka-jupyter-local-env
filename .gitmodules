@@ -1,6 +1,6 @@
-[submodule "kafka-stack-docker-compose"]
-	path = kafka-stack-docker-compose
+[submodule "docker/kafka-stack-docker-compose"]
+	path = docker/kafka-stack-docker-compose
 	url = git@github.com:ryukisaito/kafka-stack-docker-compose.git
-[submodule "spark-cluster-jupyter"]
-	path = spark-cluster-jupyter
+[submodule "docker/spark-cluster-jupyter"]
+	path = docker/spark-cluster-jupyter
 	url = git@github.com:ryukisaito/spark-cluster-jupyter.git
