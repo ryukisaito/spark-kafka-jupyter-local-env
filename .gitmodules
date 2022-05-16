@@ -7,3 +7,6 @@
 [submodule "python/confluent-kafka-python"]
 	path = python/confluent-kafka-python
 	url = git@github.com:ryukisaito/confluent-kafka-python.git
+[submodule "source/spark-official"]
+	path = source/spark-official
+	url = git@github.com:ryukisaito/spark-official.git
