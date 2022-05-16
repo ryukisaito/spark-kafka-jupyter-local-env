@@ -1,1 +1,1 @@
-# spark-kafka-jupyter-local-env
+# kafka

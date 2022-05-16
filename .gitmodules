@@ -4,3 +4,6 @@
 [submodule "docker/spark-cluster-jupyter"]
 	path = docker/spark-cluster-jupyter
 	url = git@github.com:ryukisaito/spark-cluster-jupyter.git
+[submodule "python/confluent-kafka-python"]
+	path = python/confluent-kafka-python
+	url = git@github.com:ryukisaito/confluent-kafka-python.git
